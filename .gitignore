@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.md
+
+!cfg/
+!cfg/autoconfig.cfg
+!cfg/overrides/
+!cfg/overrides/*
+!custom/
+!custom/*
