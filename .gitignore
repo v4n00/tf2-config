@@ -7,4 +7,9 @@
 !cfg/overrides/
 !cfg/overrides/*
 !custom/
-!custom/*
+!custom/mastercomfig-high-preset.vpk
+!custom/customsounds/
+!custom/customsounds/sound/
+!custom/customsounds/sound/ui
+!custom/customsounds/sound/ui/*
+!custom/no_explosion_smoke.vpk
