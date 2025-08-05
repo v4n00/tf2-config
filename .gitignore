@@ -3,17 +3,8 @@
 !README.md
 
 !cfg/
-!cfg/autoconfig.cfg
-!cfg/reset.cfg
-!cfg/scout.cfg
-!cfg/soldier.cfg
-!cfg/pyro.cfg
-!cfg/demoman.cfg
-!cfg/heavyweapons.cfg
-!cfg/engineer.cfg
-!cfg/medic.cfg
-!cfg/sniper.cfg
-!cfg/spy.cfg
+!cfg/overrides/
+!cfg/overrides/*
 !custom/
 !custom/mastercomfig-high-preset.vpk
 !custom/customsounds/
